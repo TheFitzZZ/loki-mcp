@@ -15,5 +15,15 @@
 			"path": "../donetick-mcp-server"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"mcp": {
+			"servers": {
+				"UNRAID": {
+					"url": "http://192.168.0.4:6970/mcp",
+					"type": "http"
+				}
+			},
+			"inputs": []
+		}
+	}
 }
