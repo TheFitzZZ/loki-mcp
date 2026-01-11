@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "LibreChat",
+			"path": "../LibreChat"
+		},
+		{
+			"path": "../actual-mcp"
+		},
+		{
+			"name": "donetick-mcp-server",
+			"path": "../donetick-mcp-server"
+		}
+	],
+	"settings": {}
+}
