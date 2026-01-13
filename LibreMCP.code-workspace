@@ -13,6 +13,10 @@
 		{
 			"name": "donetick-mcp-server",
 			"path": "../donetick-mcp-server"
+		},
+		{
+			"name": "azure-pricing-mcp",
+			"path": "../azure-pricing-mcp"
 		}
 	],
 	"settings": {
