@@ -21,6 +21,10 @@
 		{
 			"name": "dnd-mcp",
 			"path": "../dnd-mcp"
+		},
+		{
+			"name": "diagram-mcp-server",
+			"path": "../diagram-mcp-server"
 		}
 	],
 	"settings": {
