@@ -17,6 +17,10 @@
 		{
 			"name": "azure-pricing-mcp",
 			"path": "../azure-pricing-mcp"
+		},
+		{
+			"name": "dnd-mcp",
+			"path": "../dnd-mcp"
 		}
 	],
 	"settings": {
