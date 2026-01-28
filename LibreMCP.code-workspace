@@ -25,6 +25,10 @@
 		{
 			"name": "diagram-mcp-server",
 			"path": "../diagram-mcp-server"
+		},
+		{
+			"name": "mcp-tester",
+			"path": "../mcp-tester"
 		}
 	],
 	"settings": {
